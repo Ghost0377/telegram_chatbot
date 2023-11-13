@@ -1,0 +1,13 @@
+greeting	 hi hi. hello how are you ? hey . hows it going good morning good evening good afternoon howdy
+conversation-continue	 ok wow great oh is it ? oh ohh Thats great Good Really hmm lemme think hm hmmm hmmmmm
+address    location address office work place map direction
+software    miro software framework microsoft teams bitbucket sourcetree vscode intellij dependencydiagram designdoc
+mediacenter    media podcast news article articles
+contacts    phone social call it email linkedin twitter facebook instagram youtube help
+bursary    bursary study
+myself    who name function purpose ai bot chatbot
+comparing    better good chatgpt google smarter
+leave    leave time off day
+updatedetails    update details personal
+employeeshout    employee message mail talk shout shoutout
+conversation-complete    Thanks done that's all thats it. thats it I am done Thank you for information Thank. thanks. thank you. thanks nothing else thats it. bye
